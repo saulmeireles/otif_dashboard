@@ -62,17 +62,6 @@ Este projeto é um dashboard interativo para visualização e análise de dados 
 - `uf.json`: Arquivo JSON com as coordenadas das regiões do Brasil.
 - `requirements.txt`: Arquivo de requisitos com as dependências do projeto.
 
-## Personalização
-
-Você pode personalizar o dashboard ajustando os gráficos e filtros no arquivo `otif_app.py`. Sinta-se à vontade para adicionar novas funcionalidades ou modificar as existentes para atender às suas necessidades.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Contato
 
