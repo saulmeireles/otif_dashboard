@@ -1,0 +1,35 @@
+# carrehando os dados
+
+# otif = pd.read_csv('otif.csv')
+
+# tabel = pd.DataFrame({"Coluna1": [1, 2, 3, 4, 5, 6, 7]}, {"Coluna2": [20, 30, 80, 10, 50, 90, 100]}) 
+
+x = np.linspace(0, 10, 100)
+
+bar_x = np.array([1,2,3,4,5])
+
+st.markdown('# Projeto OTIF em Python')
+
+# st.sidebar.write('Helo this is my side bar')
+
+opt = st.sidebar.radio("Select Any graph", options= ("Line", "Bar", "H-Bar") )
+
+if opt == "Line":
+
+    fig = plt.figure()
+    plt.plot(x, np.sin(x))
+    plt.plot(x, np.cos(x), '--')
+    plt.title('Line graph')
+    st.write(fig)
+
+elif opt == "Bar":
+    fig = plt.figure()
+    plt.bar(bar_x, bar_x*10)
+    plt.title('Bar graph')
+    st.write(fig)
+
+else:
+    fig = plt.figure()
+    plt.barh(bar_x*10, bar_x)
+    plt.title('H-bar graph')
+    st.write(fig)

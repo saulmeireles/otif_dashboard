@@ -1,0 +1,500 @@
+Id_Cliente,Nome Cliente,Estado,Codigo_IBGE
+1,Luana da Luz,Piauí,22
+2,Luiz Miguel Nascimento,Minas Gerais,31
+3,Igor Pires,Roraima,14
+4,Igor Martins,Rio de Janeiro,33
+5,Caroline Araújo,Mato Grosso do Sul,50
+6,Luiz Felipe Freitas,Pará,15
+7,Dr. Nathan Costela,Mato Grosso,51
+8,Leandro Aragão,Goiás,52
+9,Clara da Mota,Bahia,29
+10,Renan da Rosa,Maranhão,21
+11,João Lopes,Ceará,23
+12,Eduardo Sales,Maranhão,21
+13,Sr. Luiz Felipe Campos,Rio Grande do Norte,24
+14,Davi Lucas da Rocha,São Paulo,35
+15,Dra. Sofia Fernandes,Bahia,29
+16,Davi Lucas Rodrigues,Distrito Federal,53
+17,Dra. Laura Caldeira,Mato Grosso,51
+18,Calebe Rezende,Roraima,14
+19,Diego da Cunha,Maranhão,21
+20,Pedro Mendes,Distrito Federal,53
+21,Sr. Theo Barros,Paraná,41
+22,Sr. Otávio Cunha,Tocantins,17
+23,Ryan Ferreira,Rio Grande do Sul,43
+24,Luigi Fernandes,Distrito Federal,53
+25,Mariane da Costa,Goiás,52
+26,Srta. Mariana Cardoso,Amazonas,13
+27,Nina Cardoso,Maranhão,21
+28,Sr. Pietro Peixoto,Distrito Federal,53
+29,Davi Luiz da Mota,Paraná,41
+30,Helena Santos,Amazonas,13
+31,Júlia Costa,Ceará,23
+32,Anthony Lima,Amapá,16
+33,Sophia Dias,Rondônia,11
+34,Calebe Martins,Bahia,29
+35,Dra. Mariana Almeida,Amazonas,13
+36,Esther Rocha,Bahia,29
+37,Bryan Mendes,Sergipe,28
+38,Dra. Ana Beatriz da Cruz,Piauí,22
+39,Arthur Santos,Bahia,29
+40,Maria Luiza Castro,Acre,12
+41,Emanuelly Melo,Amapá,16
+42,Yasmin Gonçalves,Rio Grande do Norte,24
+43,Isis Azevedo,Rondônia,11
+44,Mirella Porto,Alagoas,27
+45,Sophia Farias,Alagoas,27
+46,Melissa Pereira,Goiás,52
+47,Laura Freitas,Piauí,22
+48,Nina Lopes,Santa Catarina,42
+49,Nathan Araújo,Santa Catarina,42
+50,Leandro Ribeiro,São Paulo,35
+51,Fernanda Lima,Rio de Janeiro,33
+52,Guilherme Rocha,Minas Gerais,31
+53,Elisa Cardoso,Rio de Janeiro,33
+54,Larissa Ramos,Pará,15
+55,Sra. Valentina Nunes,Tocantins,17
+56,Gustavo Henrique da Luz,Santa Catarina,42
+57,Lara Lopes,Goiás,52
+58,Miguel Pinto,Mato Grosso do Sul,50
+59,Ana Clara da Luz,Bahia,29
+60,Yuri Fogaça,Rio Grande do Sul,43
+61,Thiago Viana,Maranhão,21
+62,João Pedro Jesus,Bahia,29
+63,Dra. Maria Fernanda Santos,Rio de Janeiro,33
+64,Ana Carolina Cunha,Rio Grande do Norte,24
+65,Bruno da Costa,Mato Grosso,51
+66,Fernanda Gonçalves,Amazonas,13
+67,Joaquim das Neves,Roraima,14
+68,Carlos Eduardo Freitas,Bahia,29
+69,Sr. Marcos Vinicius Pires,Acre,12
+70,Thomas Aragão,Sergipe,28
+71,Nina Sales,Piauí,22
+72,Letícia Oliveira,Amazonas,13
+73,Emanuella Barros,Ceará,23
+74,Joana Souza,Amapá,16
+75,Nicole Azevedo,Distrito Federal,53
+76,Antônio Azevedo,Distrito Federal,53
+77,Diego Cavalcanti,Rio Grande do Norte,24
+78,Ana Júlia Vieira,Roraima,14
+79,Sophie Nogueira,Rio Grande do Sul,43
+80,Cauê Ramos,Ceará,23
+81,Maitê Costela,Santa Catarina,42
+82,Sra. Ana Vitória Dias,Espírito Santo,32
+83,Davi Luiz Costa,Rio Grande do Norte,24
+84,Sr. João Felipe Ferreira,Bahia,29
+85,Fernando Silva,Piauí,22
+86,Heloísa Cardoso,Mato Grosso do Sul,50
+87,Matheus Gomes,Espírito Santo,32
+88,Guilherme Carvalho,Alagoas,27
+89,Matheus Ribeiro,Pará,15
+90,Evelyn Fernandes,Rio Grande do Norte,24
+91,Srta. Bárbara Fogaça,Rio Grande do Sul,43
+92,Cauã Alves,Espírito Santo,32
+93,Ana Vitória Castro,Pernambuco,26
+94,Pedro Miguel da Rocha,Espírito Santo,32
+95,Carlos Eduardo Azevedo,Alagoas,27
+96,Juan Cardoso,Rondônia,11
+97,Joaquim Cavalcanti,São Paulo,35
+98,Rafael Cunha,Alagoas,27
+99,Paulo Santos,Distrito Federal,53
+100,Bryan Rodrigues,Rio de Janeiro,33
+101,Vitor Hugo Nascimento,Paraná,41
+102,João Vitor Peixoto,Minas Gerais,31
+103,Gabriel Barbosa,Paraíba,25
+104,Maria Pinto,Rondônia,11
+105,Gabriel da Conceição,Rio de Janeiro,33
+106,Esther Cavalcanti,Amapá,16
+107,Stella da Mota,Mato Grosso,51
+108,Davi Lucas Araújo,Rio de Janeiro,33
+109,Ana Luiza Martins,Goiás,52
+110,Sophia Barros,Tocantins,17
+111,Sabrina Alves,Paraíba,25
+112,Pedro Miguel Rezende,Minas Gerais,31
+113,Kaique Aragão,Mato Grosso do Sul,50
+114,Bárbara Pires,Piauí,22
+115,Carolina da Paz,Amapá,16
+116,Arthur Viana,Rio Grande do Sul,43
+117,Bernardo Teixeira,Distrito Federal,53
+118,Nicolas Ribeiro,Mato Grosso,51
+119,Bárbara Fernandes,Espírito Santo,32
+120,Srta. Bruna Moura,Ceará,23
+121,Maitê Moreira,Rio de Janeiro,33
+122,Diogo da Luz,Paraíba,25
+123,Miguel Moraes,Goiás,52
+124,João Vitor da Rocha,Rio Grande do Norte,24
+125,Ana Lívia Silveira,Amapá,16
+126,Evelyn Cardoso,Rio Grande do Sul,43
+127,Maria da Cunha,Ceará,23
+128,Enzo Costa,Alagoas,27
+129,Gabriela Freitas,Sergipe,28
+130,Vitor Hugo Moreira,Alagoas,27
+131,Guilherme Mendes,Paraná,41
+132,Leandro Alves,Mato Grosso do Sul,50
+133,Mariane Nunes,Amapá,16
+134,Enzo Gabriel Pereira,Rio Grande do Sul,43
+135,Larissa Silveira,Bahia,29
+136,Yago Ramos,Acre,12
+137,Dr. Augusto Cunha,Mato Grosso,51
+138,Sra. Lara Dias,Paraíba,25
+139,Nathan Ferreira,Piauí,22
+140,Sra. Alana Moura,Santa Catarina,42
+141,Srta. Juliana Lopes,São Paulo,35
+142,Sophia Novaes,São Paulo,35
+143,Levi Santos,Alagoas,27
+144,Leandro Viana,Bahia,29
+145,Isis Porto,Alagoas,27
+146,Isabelly Ribeiro,Goiás,52
+147,Thales Carvalho,Espírito Santo,32
+148,Miguel da Costa,Paraíba,25
+149,Murilo Souza,Pernambuco,26
+150,Leandro Cunha,Rio de Janeiro,33
+151,Pedro Miguel Rodrigues,Amazonas,13
+152,Cauã Aragão,Ceará,23
+153,Samuel Moura,Amapá,16
+154,Dra. Carolina Martins,Acre,12
+155,Kamilly Campos,Rio Grande do Norte,24
+156,Alana Farias,Distrito Federal,53
+157,Larissa Vieira,Distrito Federal,53
+158,Sra. Ana Beatriz Moura,Amazonas,13
+159,Emilly Araújo,Espírito Santo,32
+160,Eduardo Porto,Distrito Federal,53
+161,Alícia Rezende,Maranhão,21
+162,Isabel Costa,Rondônia,11
+163,Lucas Mendes,Mato Grosso do Sul,50
+164,Maria Eduarda Pinto,Ceará,23
+165,Clarice Fernandes,Amazonas,13
+166,Evelyn Teixeira,Tocantins,17
+167,Maysa Freitas,Mato Grosso,51
+168,Benício Porto,Espírito Santo,32
+169,Vitória Barros,Sergipe,28
+170,Gustavo Henrique da Rosa,Mato Grosso do Sul,50
+171,Vitor Gabriel Gonçalves,Pernambuco,26
+172,Lorenzo Moura,Bahia,29
+173,Mariane Teixeira,Distrito Federal,53
+174,Marcela Almeida,Santa Catarina,42
+175,Sra. Kamilly Viana,Santa Catarina,42
+176,Isabel Vieira,Rio Grande do Sul,43
+177,Dr. João Guilherme Correia,Sergipe,28
+178,Emanuella Porto,Distrito Federal,53
+179,Manuela da Luz,Santa Catarina,42
+180,Sra. Alana Ferreira,Alagoas,27
+181,Natália Vieira,Mato Grosso,51
+182,Sofia da Cunha,Paraná,41
+183,Joaquim Melo,Roraima,14
+184,Pedro Miguel Porto,Rio Grande do Norte,24
+185,Enzo Porto,Mato Grosso do Sul,50
+186,João Pedro das Neves,Maranhão,21
+187,Alana Silveira,Rio Grande do Norte,24
+188,Ana Clara Nogueira,Bahia,29
+189,Noah Aragão,Pernambuco,26
+190,Yasmin da Luz,Tocantins,17
+191,Ian Alves,Santa Catarina,42
+192,Luiz Henrique Viana,Espírito Santo,32
+193,Luiz Fernando da Mata,Alagoas,27
+194,Antônio Ferreira,Minas Gerais,31
+195,Dra. Mariana Souza,Piauí,22
+196,Dra. Bárbara Cardoso,Rio Grande do Sul,43
+197,Murilo Dias,Amazonas,13
+198,Paulo Pereira,Minas Gerais,31
+199,Otávio Moraes,Rio Grande do Sul,43
+200,Srta. Agatha Alves,Rondônia,11
+201,Thomas Pereira,Rio Grande do Sul,43
+202,André da Costa,Piauí,22
+203,Sra. Maria Clara Silveira,Mato Grosso,51
+204,Gabriel Campos,Amapá,16
+205,Dr. Yuri Fogaça,Roraima,14
+206,Maria Eduarda Gomes,Pernambuco,26
+207,Marina Monteiro,Bahia,29
+208,Emanuelly Moreira,Rio Grande do Sul,43
+209,Dra. Melissa Rodrigues,Piauí,22
+210,Nathan Moura,Tocantins,17
+211,Lucas Pires,Alagoas,27
+212,Augusto Martins,Alagoas,27
+213,Ana Vitória Pires,Paraná,41
+214,Evelyn Mendes,Paraíba,25
+215,Vinicius Duarte,Mato Grosso,51
+216,Caio da Mota,Pará,15
+217,Fernanda da Conceição,Maranhão,21
+218,Danilo Cunha,Mato Grosso do Sul,50
+219,Kamilly Moura,Ceará,23
+220,Raul Barros,Acre,12
+221,André Silveira,Ceará,23
+222,Sra. Maria Julia Jesus,Rio Grande do Sul,43
+223,Dr. Thales Jesus,Mato Grosso do Sul,50
+224,Sr. Guilherme Silveira,Amapá,16
+225,Emanuel Ramos,São Paulo,35
+226,Raul Castro,Bahia,29
+227,Bryan Silveira,Mato Grosso,51
+228,Pedro Lucas Porto,Santa Catarina,42
+229,Ana Sophia Souza,Rio Grande do Norte,24
+230,Maria Sophia Freitas,Piauí,22
+231,Maria Luiza Sales,Santa Catarina,42
+232,Heitor da Rosa,Minas Gerais,31
+233,Renan Rezende,Acre,12
+234,Maria Luiza Correia,Santa Catarina,42
+235,Ana Julia da Rosa,Paraíba,25
+236,João Lucas da Paz,Alagoas,27
+237,Helena Porto,Bahia,29
+238,Sr. João Gabriel da Mata,Rio de Janeiro,33
+239,Dr. João Jesus,Espírito Santo,32
+240,Maitê Teixeira,Mato Grosso,51
+241,Kaique Fogaça,Tocantins,17
+242,Maria Luiza Carvalho,São Paulo,35
+243,Luigi Correia,Pará,15
+244,Pedro Henrique Pires,Maranhão,21
+245,Lorenzo Costela,Paraíba,25
+246,Thales Moraes,Sergipe,28
+247,Esther Ribeiro,Bahia,29
+248,Renan da Costa,Pernambuco,26
+249,Luiz Fernando Teixeira,Roraima,14
+250,Larissa da Luz,Amazonas,13
+251,Juan Teixeira,Goiás,52
+252,Sr. Erick Lopes,Rondônia,11
+253,Pietro da Mata,Goiás,52
+254,Calebe Carvalho,Pará,15
+255,Marcos Vinicius Mendes,Pará,15
+256,Joana Almeida,Mato Grosso do Sul,50
+257,Alexia Caldeira,Tocantins,17
+258,Maria Fernanda Alves,Alagoas,27
+259,Sra. Maysa Duarte,Mato Grosso do Sul,50
+260,Ana Julia Novaes,Ceará,23
+261,Mariana Melo,Goiás,52
+262,Henrique Alves,Amazonas,13
+263,Leandro Sales,Rio Grande do Sul,43
+264,Marina Teixeira,Amapá,16
+265,Antônio Azevedo,Pará,15
+266,Stephany Nunes,Paraná,41
+267,Marina Almeida,Bahia,29
+268,Isabella Costa,Mato Grosso,51
+269,Sophie Mendes,Rondônia,11
+270,Julia Rodrigues,Mato Grosso do Sul,50
+271,João Miguel Jesus,Amazonas,13
+272,Bruna da Rocha,Sergipe,28
+273,Kaique Pires,Paraíba,25
+274,Ana Carolina Gomes,Mato Grosso,51
+275,Guilherme Porto,São Paulo,35
+276,Evelyn Ferreira,Rio Grande do Sul,43
+277,Lucas Gabriel das Neves,Amapá,16
+278,Sr. Kaique Duarte,Amapá,16
+279,Lucca da Mata,Sergipe,28
+280,Luiz Felipe Castro,Pará,15
+281,Isaac da Mota,Rio de Janeiro,33
+282,Clarice Castro,Pará,15
+283,Srta. Maria Vitória da Costa,Mato Grosso do Sul,50
+284,Ana Vitória Novaes,Rio de Janeiro,33
+285,Ana Laura Rodrigues,Mato Grosso do Sul,50
+286,Fernando Moura,Rio de Janeiro,33
+287,Helena Cunha,Rio de Janeiro,33
+288,Gabriela Nascimento,Rio Grande do Sul,43
+289,Igor Silva,Mato Grosso do Sul,50
+290,Lorena Novaes,São Paulo,35
+291,Lívia Silveira,Tocantins,17
+292,Gabriel Rezende,Paraná,41
+293,Vitor Porto,Roraima,14
+294,Davi Luiz Melo,Amapá,16
+295,Srta. Ana Clara Carvalho,São Paulo,35
+296,Catarina Alves,Goiás,52
+297,Gabrielly Campos,Mato Grosso,51
+298,Davi Ramos,Rio Grande do Norte,24
+299,Sr. Davi Lucas Almeida,Rio de Janeiro,33
+300,Sr. Raul Alves,Rio de Janeiro,33
+301,Caroline Lopes,Amapá,16
+302,Júlia Monteiro,Sergipe,28
+303,Leandro Dias,Goiás,52
+304,Luiz Otávio da Rocha,Pernambuco,26
+305,Carolina Rodrigues,Paraíba,25
+306,Camila Castro,Bahia,29
+307,Sr. Enrico Souza,Rio Grande do Sul,43
+308,Kevin Cavalcanti,Roraima,14
+309,Vitor Alves,Tocantins,17
+310,Isabella Ferreira,Mato Grosso,51
+311,João Vitor da Cunha,Mato Grosso do Sul,50
+312,Dra. Brenda Moraes,Pará,15
+313,Sophie Costela,Amapá,16
+314,Sophia Rodrigues,Paraná,41
+315,Alícia Nogueira,Rio Grande do Norte,24
+316,Beatriz Jesus,Tocantins,17
+317,Sr. Cauã Jesus,Mato Grosso,51
+318,Davi Lucca Aragão,Amapá,16
+319,Larissa Caldeira,Rondônia,11
+320,Dr. Benício da Cruz,Mato Grosso do Sul,50
+321,Danilo Moura,Maranhão,21
+322,Dr. Isaac Cardoso,Amapá,16
+323,Murilo das Neves,Maranhão,21
+324,João Felipe Viana,Rio Grande do Norte,24
+325,Maria Fernanda Barbosa,São Paulo,35
+326,Samuel Castro,Bahia,29
+327,João Guilherme Fernandes,Pará,15
+328,Maria Clara da Mata,Amazonas,13
+329,Murilo Jesus,São Paulo,35
+330,Enrico Azevedo,Paraíba,25
+331,Dra. Maria Eduarda Silva,Roraima,14
+332,Vinicius Barbosa,Rio Grande do Norte,24
+333,Davi Luiz Correia,Acre,12
+334,Lorena Barbosa,Acre,12
+335,Noah Lima,Tocantins,17
+336,Davi Mendes,Distrito Federal,53
+337,Cecília Moreira,Paraná,41
+338,Enrico Rodrigues,Santa Catarina,42
+339,Luiz Henrique Carvalho,Distrito Federal,53
+340,Alexia Cunha,Piauí,22
+341,Olivia Alves,Rondônia,11
+342,Otávio Alves,Amazonas,13
+343,Luiz Otávio da Mata,Maranhão,21
+344,Eduardo da Luz,Sergipe,28
+345,Mariana da Cruz,Minas Gerais,31
+346,Marina Pires,Ceará,23
+347,Vitor Cardoso,Maranhão,21
+348,Sr. Thomas Pereira,Piauí,22
+349,Leandro Correia,Tocantins,17
+350,Alexia da Rocha,Paraná,41
+351,Pietra Santos,Maranhão,21
+352,Sr. Bryan Porto,Bahia,29
+353,Leonardo Pinto,Pará,15
+354,Sabrina Farias,Santa Catarina,42
+355,Felipe da Cruz,Sergipe,28
+356,Sr. Renan Ribeiro,Rio Grande do Sul,43
+357,Vitória Pereira,Pernambuco,26
+358,Natália da Cruz,Amazonas,13
+359,Laura Duarte,Amazonas,13
+360,Mariana Porto,Rio Grande do Norte,24
+361,Ana Júlia Pires,Amapá,16
+362,Gabrielly Rodrigues,Rio de Janeiro,33
+363,Matheus Castro,Amazonas,13
+364,Rebeca Dias,Rondônia,11
+365,Enzo Gabriel Moura,Mato Grosso,51
+366,Ana Júlia Castro,Santa Catarina,42
+367,Davi Lucas Cunha,Minas Gerais,31
+368,Sr. Igor Lima,Minas Gerais,31
+369,Clara Azevedo,Bahia,29
+370,Benício Cardoso,Paraíba,25
+371,Yago Azevedo,Rio Grande do Norte,24
+372,Luiz Miguel Dias,Amapá,16
+373,Alice da Rocha,Rio Grande do Norte,24
+374,Sr. Rodrigo Pereira,Paraná,41
+375,Renan Novaes,Roraima,14
+376,Ana Clara Freitas,Santa Catarina,42
+377,Lucas Ribeiro,Espírito Santo,32
+378,Davi Lucca Caldeira,Mato Grosso,51
+379,Joana Rodrigues,Rondônia,11
+380,Laura Carvalho,Amapá,16
+381,Paulo Porto,Distrito Federal,53
+382,Maria Sophia Monteiro,Maranhão,21
+383,Ana Lívia Oliveira,Piauí,22
+384,Lavínia Almeida,Bahia,29
+385,Srta. Caroline Ribeiro,Amazonas,13
+386,Dr. Bernardo Rezende,Santa Catarina,42
+387,Marcela da Rosa,Amapá,16
+388,Sr. Heitor Melo,Espírito Santo,32
+389,Emanuel Silveira,Rio de Janeiro,33
+390,Yuri da Cunha,Amapá,16
+391,Dr. Emanuel Lima,Rio Grande do Sul,43
+392,Mirella Costela,Minas Gerais,31
+393,Sr. Vitor Gabriel da Luz,Goiás,52
+394,João Almeida,Rio Grande do Sul,43
+395,Cauã Vieira,Tocantins,17
+396,Julia da Mota,Rio Grande do Norte,24
+397,Danilo Fogaça,Espírito Santo,32
+398,Vitória Cunha,Amazonas,13
+399,Davi Luiz Fernandes,Paraná,41
+400,Dr. Luiz Otávio Correia,Roraima,14
+401,Luigi da Mota,Tocantins,17
+402,Luiz Felipe da Luz,Acre,12
+403,Dra. Bárbara Peixoto,Roraima,14
+404,Giovanna Porto,Minas Gerais,31
+405,Kamilly Rezende,Ceará,23
+406,Sra. Luiza Costa,Rio Grande do Sul,43
+407,João Guilherme da Mota,Maranhão,21
+408,Daniel Peixoto,Paraíba,25
+409,Bruna Moraes,Paraná,41
+410,Diego Rocha,Alagoas,27
+411,Srta. Rebeca Rodrigues,Paraíba,25
+412,Clarice Pereira,Espírito Santo,32
+413,Lorenzo da Rocha,Rio de Janeiro,33
+414,Bianca Araújo,Amazonas,13
+415,Thales Souza,Rio Grande do Sul,43
+416,Ana Julia Campos,Paraíba,25
+417,Milena Araújo,Rio Grande do Norte,24
+418,Ian Silva,Bahia,29
+419,Luiz Otávio da Cunha,Sergipe,28
+420,Dra. Julia Almeida,Rio de Janeiro,33
+421,Ana Vitória Souza,Roraima,14
+422,Caroline Cavalcanti,Roraima,14
+423,Rodrigo Campos,Mato Grosso,51
+424,Matheus Cardoso,Tocantins,17
+425,Larissa Moreira,Espírito Santo,32
+426,Sra. Sarah Aragão,Roraima,14
+427,Igor Rodrigues,Bahia,29
+428,Alana Campos,Mato Grosso do Sul,50
+429,Marcela Barros,Mato Grosso do Sul,50
+430,Sabrina Dias,Minas Gerais,31
+431,Sabrina Souza,Paraíba,25
+432,Erick Gonçalves,Ceará,23
+433,Felipe Duarte,Tocantins,17
+434,Vitor Oliveira,Piauí,22
+435,Luiz Henrique Gonçalves,Bahia,29
+436,Dr. Vicente Fernandes,Espírito Santo,32
+437,Isabella Pires,Paraíba,25
+438,Erick Dias,Goiás,52
+439,Dr. Enrico da Conceição,Bahia,29
+440,Kaique Ferreira,Distrito Federal,53
+441,Davi Gonçalves,Sergipe,28
+442,Heitor da Luz,Minas Gerais,31
+443,Marcelo das Neves,Bahia,29
+444,Benício Jesus,Amapá,16
+445,João Felipe Moraes,Paraná,41
+446,Stephany Duarte,Maranhão,21
+447,Luiza Peixoto,Paraná,41
+448,Letícia Azevedo,Espírito Santo,32
+449,Dra. Yasmin Gonçalves,Distrito Federal,53
+450,Caio Nogueira,Minas Gerais,31
+451,Sr. Vinicius das Neves,Amapá,16
+452,Kamilly Martins,Tocantins,17
+453,Sra. Cecília Campos,Mato Grosso,51
+454,Lucas Correia,Rondônia,11
+455,Gabriela Duarte,Goiás,52
+456,Kamilly Melo,Amapá,16
+457,Luigi da Conceição,Minas Gerais,31
+458,Isis Nogueira,Rio de Janeiro,33
+459,Marina Caldeira,Tocantins,17
+460,Maria Eduarda Farias,Paraíba,25
+461,Yasmin da Conceição,Pernambuco,26
+462,Dra. Ana Vitória Martins,Mato Grosso,51
+463,Lara Pires,Bahia,29
+464,Maria Sophia Correia,Goiás,52
+465,Matheus Castro,Alagoas,27
+466,Dr. Anthony Barros,Paraná,41
+467,Felipe Melo,Santa Catarina,42
+468,Clara Jesus,Distrito Federal,53
+469,Thiago Barros,Acre,12
+470,Nicolas Moraes,Pernambuco,26
+471,Srta. Alice Dias,Goiás,52
+472,Maria Eduarda Mendes,Rio de Janeiro,33
+473,Nicole da Luz,Acre,12
+474,Isadora Pires,Ceará,23
+475,Maria Clara Rodrigues,Paraná,41
+476,Clarice Gonçalves,Paraná,41
+477,Maria Clara Ribeiro,Amapá,16
+478,Juliana da Cunha,Alagoas,27
+479,Manuela Martins,Ceará,23
+480,Sr. Davi Lucas Peixoto,Rio Grande do Norte,24
+481,André Silva,Alagoas,27
+482,Gustavo Barbosa,Roraima,14
+483,Stephany Novaes,Rio Grande do Sul,43
+484,Sra. Larissa da Luz,Paraná,41
+485,Stella Moraes,Paraná,41
+486,Alexandre Santos,Tocantins,17
+487,Arthur Silveira,Rondônia,11
+488,Davi Lucca Freitas,Mato Grosso do Sul,50
+489,Manuela Gomes,Bahia,29
+490,Helena Nogueira,Rio Grande do Sul,43
+491,Sr. Vicente da Rocha,Amazonas,13
+492,Dr. Vitor Ramos,São Paulo,35
+493,Carolina Moura,Rondônia,11
+494,Pietra Melo,Bahia,29
+495,Eduardo Campos,Tocantins,17
+496,Ana Julia Sales,Sergipe,28
+497,Alice Farias,Amapá,16
+498,João Gabriel da Cunha,Mato Grosso,51
+499,Igor Rocha,Pernambuco,26
